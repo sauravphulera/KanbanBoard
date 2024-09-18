@@ -1,0 +1,47 @@
+.kanban-card {
+    background: white;
+    padding: 8px;
+    border-radius: 6px;
+    box-shadow: 0 0px 2px rgba(0, 0, 0, 0.15), 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.user-icon {
+    background: darkorange;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+}
+
+.card-id-font {
+
+}
+
+.gray-font {
+    color: gray;
+}
+
+.kanban-card-title{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top:4px;
+}
+
+.dot {
+    background-color: #bdbdbd;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+}
+
+.wrap-content {
+    padding: 4px;
+    border: 1px solid gainsboro;
+    border-radius: 6px;
+}
+
+.icon-width {
+    width: 12px;
+    height: 12px;
+}
